@@ -1,8 +1,8 @@
 # rho_object_solo
 
 #Project Title:
-*Team: 1987 Minnesota Twins
-*Reason: I have awesome childhood memories of this team.
+-Team: 1987 Minnesota Twins
+-Reason: I have awesome childhood memories of this team.
 
 #Instructions:
 
